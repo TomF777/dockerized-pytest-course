@@ -45,7 +45,7 @@
   $ pytest -vvl
   ```
 
-  * Help about pytest*
+  *Help about pytest*
 
   ``` bash
   $ pytest -h
