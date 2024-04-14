@@ -45,6 +45,13 @@
   $ pytest -vvl
   ```
 
+  * Help about pytest*
+
+  ``` bash
+  $ pytest -h
+  ```
+
+
 **To exit the shell**
   ```bash
   $ exit
